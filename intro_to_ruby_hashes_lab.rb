@@ -26,10 +26,10 @@ def monopoly_with_third_tier
       :fourth => 400
       },
       :names => {
-        "North",
-        "South",
-        "East",
-        "West"
+        :North => "North",
+        :South => "South",
+        :East => "East",
+        :West => "West"
       }
     }
   }
