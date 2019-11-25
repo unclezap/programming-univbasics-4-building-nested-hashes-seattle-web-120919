@@ -25,7 +25,12 @@ def monopoly_with_third_tier
       :third => 300,
       :fourth => 400
       },
-      :names => "names"
+      :names => {
+        "North",
+        "South",
+        "East",
+        "West"
+      }
     }
   }
 end
